@@ -1,5 +1,5 @@
 # -Intagram-Fake-Account-Detection
-<img src="https://techcult.com/wp-content/uploads/2022/06/How-to-Find-Out-Who-Made-a-Fake-Instagram-Account.png" alt="" width="1000" height="600" style="max-width: 40%;">
+<img src="https://techcult.com/wp-content/uploads/2022/06/How-to-Find-Out-Who-Made-a-Fake-Instagram-Account.png" alt="" width="800" height="400" style="max-width: 40%;">
  Intagram Fake Account Detection using machine learning 
  
 <h2>Planteamiento del problema</h2>
